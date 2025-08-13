@@ -1,0 +1,11 @@
+{
+  "name": "release-cli-test-repo",
+  "version": "25.7",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
