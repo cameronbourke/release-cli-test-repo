@@ -1,6 +1,6 @@
 {
   "name": "DemoApp",
-  "version": "25.8",
+  "version": "25.8.1",
   "private": true,
   "scripts": {
     "android": "react-native run-android",
